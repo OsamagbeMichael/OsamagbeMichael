@@ -107,14 +107,20 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <Br><Br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsamagbeMichael&show_icons=true&theme=radical)
 
+ 
+ 
+ 
+<a >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamagbeMichael&show_icons=true&theme=radical" />
+</a>
 
+<Br><Br><Br><Br>
 
 <!--  Spotify link -->
 
+<!-- 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qab6zos26w0zyo0dedgtli0r7&cover_image=false&theme=default&bar_color=942192)](https://spotify-github-profile.vercel.app/api/view?uid=qab6zos26w0zyo0dedgtli0r7&redirect=true)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qab6zos26w0zyo0dedgtli0r7&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=qab6zos26w0zyo0dedgtli0r7&redirect=true)
-
-
+ -->
 
