@@ -6,8 +6,8 @@
 
 
 
-<p  height = "100" align = "center">
-  <img  src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+<p  height = "100" align = "center" width="500" height="500">
+  <img  src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"/>
 </p>
 
 
@@ -17,7 +17,7 @@
 Here are some ideas to get you started:-->
 <Br>
 
-HELLO ‼️ Welcome to my github account. My name is osamagbe uhunmwagho and I am a recent graduate with a degree in computer science with a specialization in software engineering . 
+Welcome to my github account. My name is osamagbe uhunmwagho and I am a recent graduate with a degree in computer science with a specialization in software engineering . 
 
 <Br><Br>
 
