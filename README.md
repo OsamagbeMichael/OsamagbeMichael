@@ -104,3 +104,17 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 - 💬 Ask me about ANYTHING, it could be my experience or  the most recent project im working on ...
 
 
+<Br><Br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsamagbeMichael&show_icons=true&theme=radical)
+
+
+
+<!--  Spotify link -->
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qab6zos26w0zyo0dedgtli0r7&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=qab6zos26w0zyo0dedgtli0r7&redirect=true)
+
+
+
