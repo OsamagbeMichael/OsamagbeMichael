@@ -1,20 +1,73 @@
-<p align = "center">
+ <p align = "center" >
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&fontSize=90" />
-</p>                                                                                                                                  
+</p>  
+
+<!-- for reference on how to get header https://github.com/kyechan99/capsule-render-->
+
+
+
+<p  height = "100" align = "center">
+  <img  src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+</p>
+
+
 <!--
 **OsamagbeMichael/OsamagbeMichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-
+<Br>
 
 HELLO ‼️ Welcome to my github account. My name is osamagbe uhunmwagho and I am a recent graduate with a degree in computer science with a specialization in software engineering . 
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<Br><Br>
+
+<a >
+  <img height="30" src="https://user-images.githubusercontent.com/71562491/188218084-c452e227-3a81-4a52-855f-c00e34e355f6.png"/>
+</a>
+
+
+<a >
+  <img height="30" src="https://camo.githubusercontent.com/455be3a3fb7c8df894c8c03946ad019f6db5c5ebf84c64a603c9c00e035b9615/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d6335383534353f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d633538353435266c6162656c436f6c6f723d323832383238"/>
+</a>
+
+<a >
+  <img height=30" src="https://camo.githubusercontent.com/1fa64c93442124cf2bfa082e06b5786f40f091ffeff0ce4efe25b6ce0ceed218/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d6431613031663f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d643161303166266c6162656c436f6c6f723d323832383238"/>
+</a>
+
+<a >
+  <img height="30" src="https://camo.githubusercontent.com/370d38fc5644d76a1e4866a6c46be390616758c449ec0daff7ee15e429b165bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3938623938323f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d393862393832266c6162656c436f6c6f723d323832383238"/>
+</a>
+
+<a >
+  <img height="30" src="https://camo.githubusercontent.com/77c0e2ea30c0becaff29f0af5c4c95daec02be00dd521b6025717cb52197ab8e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d556e69747933442d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d626c61636b266c6162656c436f6c6f723d323832383238"/>
+</a>
+
+<a >
+  <img height="30" src="https://camo.githubusercontent.com/2b611e1ab857eca8085e93215e73252db92763688fedf2ab109090fef1126477/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d70696e6b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d70696e6b266c6162656c436f6c6f723d323832383238"/>
+</a>
+
+<a align = "right">
+  <img height="30" src="https://camo.githubusercontent.com/2b611e1ab857eca8085e93215e73252db92763688fedf2ab109090fef1126477/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d70696e6b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d70696e6b266c6162656c436f6c6f723d323832383238"/>
+  
+  <img height = "30" src = "https://camo.githubusercontent.com/810e1305d235476d80aea5493a13990c7df48ae8a57d7927ed0309e38b59bb91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d726564266c6162656c436f6c6f723d323832383238"/>
+  
+  <img height="30" src="https://camo.githubusercontent.com/2b611e1ab857eca8085e93215e73252db92763688fedf2ab109090fef1126477/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d70696e6b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d70696e6b266c6162656c436f6c6f723d323832383238"/>
+  
 </a>
 
 
 
+<a >
+  <img height="30" src="https://camo.githubusercontent.com/2b611e1ab857eca8085e93215e73252db92763688fedf2ab109090fef1126477/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d70696e6b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d70696e6b266c6162656c436f6c6f723d323832383238"/>
+</a>
+
+<a >
+  <img height="30" src="https://camo.githubusercontent.com/5f9e6304b5da7495b26f42f7a9f20988988d1e1408a9395dbeb68485668ff1f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d677265656e266c6162656c436f6c6f723d323832383238"/>
+</a>
+
+
+
+<Br><Br><Br><Br>
 
 - 🔭 I’m currently working on contributing to open source projects ...
 - 🌱 I’m currently learning ReactJS...
@@ -22,7 +75,7 @@ HELLO ‼️ Welcome to my github account. My name is osamagbe uhunmwagho and I 
 - 🤔 I’m looking for help with getting better at leetcode problems  ...
 - 💬 Ask me about ANYTHING, it could be my experience or  the most recent project im working on ...
 - 📫 How to reach me: ...
-- 😄 Pronouns:He/His ...
+- 😄 Pronouns:He/Him ...
 - ⚡ Fun fact: I never know what to write on this one 😫...
 
 
