@@ -72,7 +72,7 @@ located_in: Toronto, Canada.
 
 education:
   [
-    "Self-Taught Developer and Designer"
+    
     "Bachelor's in Computer Science and Software Engineering ",
   ]
 
