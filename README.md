@@ -88,7 +88,7 @@ fields_of_interests:
     "DevOps",
   ]
 
-currently_learning: ["Docker, Kubernetes and React Native"]
+currently_learning: ["ReactJS, C#, Machine Learning , Cloud Computing "]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
