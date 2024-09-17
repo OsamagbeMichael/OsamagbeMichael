@@ -1,5 +1,5 @@
  <p align = "center" >
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Hello&fontSize=90" />
 </p>  
 
 <!-- for reference on how to get header https://github.com/kyechan99/capsule-render-->
